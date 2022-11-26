@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class AssignmestVariables {
-    public static void main(String args[])
+    public static void main(String[] args)
     {
         //1.->taking two inputes and print thier product
 
