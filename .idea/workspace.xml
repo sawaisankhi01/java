@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ebabcd8-7644-44e1-94fa-baf3b821343c" name="Changes" comment="java changes">
-      <change afterPath="$PROJECT_DIR$/src/AssignmentConditionals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditianalStatment.java" afterDir="false" />
+    <list default="true" id="9ebabcd8-7644-44e1-94fa-baf3b821343c" name="Changes" comment="java changes on 27/11/2022">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +17,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -82,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669470199929</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="java changes on 27/11/2022">
+      <created>1669532286409</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669532286409</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +110,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java vars" />
     <MESSAGE value="java changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="java changes" />
+    <MESSAGE value="java changes on 27/11/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="java changes on 27/11/2022" />
   </component>
 </project>
